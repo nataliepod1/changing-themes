@@ -1,0 +1,14 @@
+When users click First Day of Fall h1 text color changes to orange
+h1 {
+    color: #CF5C00
+}
+
+When users click Halloween h1 text color changes to purple
+h1 {
+    color: #5D1966
+}
+
+When users click Thanksgiving h1 text color changes to brown
+h1 {
+    color: #7A3E26
+}
